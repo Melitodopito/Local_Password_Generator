@@ -1,1 +1,1 @@
-A Lolocal password generator, created as a learning project.
+A local password generator, created as a learning project.
